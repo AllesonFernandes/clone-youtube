@@ -17,4 +17,4 @@ A proposta foi replicar a estrutura e o layout visual da interface do YouTube, c
 ## 🖼️ Funcionalidades e Elementos Clonados
 
 - ✅ Header com logo, barra de busca e ícones
-- ✅ Menu lateral com navegação
+- ✅ Vídeos em miniatura na lateral
